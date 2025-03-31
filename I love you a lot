@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>i love you a lot juan diego</title>
+  <style>
+    body {
+      background-color: #ffdde1;
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      padding: 20px;
+      margin: 0;
+    }
+    .container {
+      background: #ffe4ec;
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      width: 60%;
+      margin: 50px auto;
+      position: relative;
+    }
+    h1 {
+      color: #ff80ab;
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 20px;
+      color: #d63384;
+      line-height: 1.5;
+    }
+    .my-melody {
+      width: 100px;
+      position: absolute;
+      top: -50px;
+      left: -50px;
+    }
+    .ribbon {
+      width: 80px;
+      position: absolute;
+      top: -30px;
+      right: -30px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://i.pinimg.com/originals/2c/f2/0a/2cf20ab79de78b9ff9154dc5b2ccf2f9.png" class="my-melody" alt="My Melody">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pink_ribbon.svg/1024px-Pink_ribbon.svg.png" class="ribbon" alt="Lazo">
+    <h1>¿Sabes cuánto te amo?</h1>
+    <p>Eres lo mejor que me ha pasado, caí hacia ti como una fuerte lluvia que reviviste con tanto amor. Te quiero.</p>
+    <p><strong>\"Te quiero como para leerte cada noche, como mi libro favorito quiero leerte, línea tras línea, letra por letra, espacio por espacio.\"</strong></p>
+  </div> 
+</body>
+</html>
